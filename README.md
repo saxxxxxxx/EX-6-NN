@@ -55,9 +55,13 @@ print(classification_rep)
 <H3>Output:</H3>
 
 ### ACCURACY:
+
 ![image](https://github.com/ShakthiSundar-K/EX-6-NN/assets/128116143/e373d3df-3967-45ab-879f-1d4c8b7e60a7)
+
 ### Iteration vs Loss:
-![image](https://github.com/ShakthiSundar-K/EX-6-NN/assets/128116143/9e3864d9-1efd-428e-a920-8387de9ec2d3)
+
+![9e3864d9-1efd-428e-a920-8387de9ec2d3](https://github.com/ShakthiSundar-K/EX-6-NN/assets/128116143/b4bd0360-4844-4635-8c7a-a82efdeadfde)
+
 
 ### Confusion Matrix:
 ![image](https://github.com/ShakthiSundar-K/EX-6-NN/assets/128116143/f6a0c937-5986-4da8-ba39-6de63c2d4d65)
